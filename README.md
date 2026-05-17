@@ -49,7 +49,7 @@ The PCB layout uses controlled-impedance routing for RF traces, short signal pat
 - RF signal generation using a VCO
 - High-frequency PCB layout practices
 - 50 ohm controlled-impedance routing
-- RF amplifier biasing
+- RF amplifier biasing 
 - AC coupling in RF signal paths
 - Bias-tee circuit design
 - Low-noise power supply design
