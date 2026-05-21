@@ -21,7 +21,7 @@ The project focuses on RF signal generation, high-frequency PCB layout, impedanc
 
 ## Major Components
 
-| Component | Function |
+| Component | Function | 
 |---|---|
 | HMC358MS8GE | Voltage-controlled oscillator generating the RF carrier |
 | HMC637ALP5E | RF power amplifier providing signal gain |
